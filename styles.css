@@ -1,0 +1,13 @@
+body{
+    font-size: 4rem;
+}
+
+.flex-container{
+    display: flex;
+    background: yellow;
+}
+
+.flex-item{
+    margin: 1rem;
+    border: 1px solid #000;
+}
